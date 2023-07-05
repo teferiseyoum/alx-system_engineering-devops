@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -la "$current_dir" "$parent_dir"
-ls -la /boot
+ls -la "$current_dir" "$parent_dir" ls -la /boot
